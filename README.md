@@ -1,4 +1,4 @@
-# SELF_DRIVING_CAR_ENGINEER_NANODEGREE-project7.-Highway-Driving
+# SELF_DRIVING_CAR_ENGINEER_NANODEGREE_project7.Highway-Driving
 
 
 # Introduction
