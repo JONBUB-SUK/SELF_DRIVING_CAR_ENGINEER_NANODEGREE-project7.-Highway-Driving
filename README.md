@@ -9,9 +9,6 @@ Purpose of this project is to drive in highway without any collision or jerk
 
 To do this project, I learned A* algorithm, Naive Bayes for prediction, FSM for behavior planning, trajectory generation
 
-But all of this learning is used in this project
-
-Because it is relatively easy that drive in highway than in complex city
 
 ## 2. Rubric points
 
