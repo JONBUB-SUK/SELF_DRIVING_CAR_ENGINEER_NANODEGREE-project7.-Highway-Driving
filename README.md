@@ -152,10 +152,14 @@ Make polynimial path through point I decided
 
 Before makeing code, I made flow chart to check total flow and check what function will be need
 
-<img src="./images/flow_chart_main.png" width="500">
-<img src="./images/flow_chart_check_too_close.png" width="500">
-<img src="./images/flow_chart_try_lane_change.png" width="500">
-<img src="./images/flow_chart_lane_change_cost.png" width="500">
+##### main.cpp
+<img src="./images/flow_chart_main.png" width="700">
+##### check_too_close function
+<img src="./images/flow_chart_check_too_close.png" width="700">
+##### try_lane_change
+<img src="./images/flow_chart_try_lane_change.png" width="700">
+##### lane_change_cost
+<img src="./images/flow_chart_lane_change_cost.png" width="700">
 
 
 # Results
