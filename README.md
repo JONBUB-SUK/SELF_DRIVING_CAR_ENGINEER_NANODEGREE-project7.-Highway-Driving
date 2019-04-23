@@ -175,9 +175,21 @@ It drove well without ant jerks or collides
 
 # Conclusion & Discussion
 
-### 1. About total flow of self-driving car
+### 1. About limitation
 
-What do we need to make self driving car?
+In this project, I did not use search and prediction
+
+Maybe it can be apart from the intention of project
+
+My algorithm is just check there is car nearby and make trajectory to change my lane
+
+It can be useful because this project is just driving in simple highway
+
+I didn't have to calculate optimal path to destination,
+
+I didn't have to predict opponent car's behavior at intersection
+
+So I am very looking forward to final project, driving autonomously at real city
 
 
 
