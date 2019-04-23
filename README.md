@@ -38,7 +38,7 @@ To do this project, I learned A* algorithm, Naive Bayes for prediction, FSM for 
 
 ## 4. My intention of algorithm
 
-My intent for algorithm is very simple
+My intention for algorithm is very simple
 
 Just make beginner driver!
 
