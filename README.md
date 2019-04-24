@@ -93,7 +93,7 @@ A* hibrid algorithm is equal to A* but is different at continuous moving
 
 ### 3. Prediction
 
-To drive manually, after got map data and knowing where the other cars are, I will curious about what will they do
+To drive manually, after getting map data and knowing where the other cars are, I will curious about what will they do
 
 There are two approaches for prediction
 
