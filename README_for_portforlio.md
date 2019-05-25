@@ -31,15 +31,11 @@ Just make beginner driver!
 
 This is some principles my beginner driver should obey
 
-1. Obey speed limit
-
-2. Keep lane until a car showed up in front
-
-3. Change lane when front is blocked
-
-4. If want change lane, there should be no car near 10m in intended lane behind
-
-5. If want change lane, select lane that have bigger space between front car
+- Obey speed limit
+- Keep lane until a car showed up in front
+- Change lane when front is blocked
+- If want change lane, there should be no car near 10m in intended lane behind
+- If want change lane, select lane that have bigger space between front car
 
 And this is Finite State Machine explaining all this principles
 
