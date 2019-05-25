@@ -10,15 +10,10 @@ To do that, I studied A* algorithm, Naive Bayes for prediction, FSM for behavior
 The rubric points of this project is like below
 
 - Should drive at least 4.32 miles
-
 - Should obey speed limit
-
 - Max acceleration and jerk should not exceed
-
 - Car should not have collisions
-
 - The car should stay in its lane, except for the time between changing lanes.
-
 - The car is able to change lanes
 
 And I receive 4 kinds of input data from simulator
