@@ -39,7 +39,7 @@ This is some principles my beginner driver should obey
 
 And this is Finite State Machine explaining all this principles
 
-<img src="./images/FSM.png" width="600">
+<img src="./images/FSM.png" width="400">
 
 
 ## 2. Related Study
@@ -575,8 +575,8 @@ double lane_chage_cost (int lane, direction wanna_direction)
 
 It drove well without ant jerks or collides
 
-<img src="./images/result_1.png" width="700">
-<img src="./images/result_2.png" width="700">
+<img src="./images/result_1.png" width="400">
+<img src="./images/result_2.png" width="400">
 
 
 ## 5. Discussion
